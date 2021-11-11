@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Hi, I am Adrian aka iglepuntoexe and I am Student
+## Hi, I am Adrian Iglesias (igleepuntoexe) and I am Student
 - 📚 I'm currently learning.
 - 👩‍💻 I'm interested in HTML, CSS, JS, Python and Visual Basic.
 - 🎃 Fun Fact: I stream in twitch [https://www.twitch.tv/zaki89]
