@@ -11,7 +11,7 @@
 <a href="https://www.youtube.com/channel/UCPIJbSX5_zQgDA-Xp9_ZiDA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iglepuntoexe" height="30" width="40" /></a>
 <a href="https://www.instagram.com/igle.exe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iglepuntoexe" height="30" width="40" /></a>
 <a href="https://www.twitch.tv/zaki89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="iglepuntoexe" height="30" width="40" /></a> 
-<a href="https://wakatime.com/@iglepuntoexe" target="_blank"><img src="https://wakatime.com/static/WakaTime-logos.zip" alt="wakatime" width="40" height="40"/>
+<a href="https://wakatime.com/@iglepuntoexe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wakatime.svg" alt="wakatime" width="40" height="40"/>
 
 <details>
   <summary><b>📌&nbsp;&nbsp;Languages</b></summary>
