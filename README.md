@@ -6,12 +6,15 @@
 - 🎃 Fun Fact: I stream in twitch (https://www.twitch.tv/zaki89)
 - 📫 My contact is adriiglesias2016@gmail.com or iglepuntoexe#8778 in discord!
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
+
 ## Connect with me:
 <a href="https://twitter.com/igleepuntoexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iglepuntoexe" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCPIJbSX5_zQgDA-Xp9_ZiDA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iglepuntoexe" height="30" width="40" /></a>
 <a href="https://www.instagram.com/igle.exe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iglepuntoexe" height="30" width="40" /></a>
 <a href="https://www.twitch.tv/zaki89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="iglepuntoexe" height="30" width="40" /></a> 
-<a href="https://wakatime.com/@iglepuntoexe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wakatime.svg" alt="wakatime" width="40" height="40"/>
 
 <details>
   <summary><b>📌&nbsp;&nbsp;Languages</b></summary>
