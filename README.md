@@ -8,7 +8,8 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://open.spotify.com/user/b7n8gkjrnq7ccahjgw56m9rhw?si=5af0a2013df54778)](https://open.spotify.com/user/b7n8gkjrnq7ccahjgw56m9rhw?si=5af0a2013df54778)
+
+[<img src="https://<novatorem-tau-seven.vercel.app>/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/b7n8gkjrnq7ccahjgw56m9rhw?si=21b417f97e6645b5)
 
 ## Connect with me:
 <a href="https://twitter.com/igleepuntoexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iglepuntoexe" height="30" width="40" /></a>
