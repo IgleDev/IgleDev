@@ -2,13 +2,13 @@
 
 ## Hi, I am Adrian Iglesias (igleepuntoexe) and I am Student
 - 📚 I'm currently learning.
-- 👩‍💻 I'm interested in HTML, CSS, JS, Python and Visual Basic.
-- 🎃 Fun Fact: I stream in twitch (https://www.twitch.tv/zaki89)
-- 📫 My contact is adriiglesias2016@gmail.com or iglepuntoexe#8778 in discord!
+- 👩‍💻 I'm interested in HTML, CSS, JS.
+- 🎃 Fun Fact: I stream in twitch (https://www.twitch.tv/iglepuntoexe)
+- 📫 My contact is adri.iglesias.fernandez@gmail.com or iglepuntoexe#8778 in discord!
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/b7n8gkjrnq7ccahjgw56m9rhw?si=5af0a2013df54778)
 
 ## Connect with me:
 <a href="https://twitter.com/igleepuntoexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iglepuntoexe" height="30" width="40" /></a>
