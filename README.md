@@ -3,7 +3,7 @@
 ## Hi, I am Adrian Iglesias (IgleDev) and I am Student
 - 📚 I'm currently learning.
 - 👩‍💻 I'm interested in HTML, CSS, JS and PHP.
-- 📫 contact:adri.iglesias.fernandez@gmail.com
+- 📫 contact: adri.iglesias.fernandez@gmail.com
 
 ## Connect with me:
 <a href="https://twitter.com/IgleDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="IgleDev" height="30" width="40" /></a>
