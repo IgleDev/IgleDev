@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## Hi, I am Adrian Iglesias (IgleDev) and I am Student
+## Hi, I am Adrián Iglesias (IgleDev) and I am Student
 - 📚 I'm currently learning DAW.
-- 👩‍💻 I'm interested in HTML, CSS, JS and PHP.
+- 👩‍💻 I'm interested in HTML, CSS, JS/JQUERY, TS and PHP.
 - 📫 contact: adri.iglesias.fernandez@gmail.com
 
 ## Connect with me:
@@ -19,7 +19,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/jquery" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript" alt="javascript" width="40" height="40"/> 
 </a> 
 </a> 
  </p>
