@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://igledev.netlify.app](https://igledev.netlify.app)
 
-- 💬 Ask me about **HTML | CSS | JS | JQUERY | TS | PHP | GIT | TS**
+- 💬 Ask me about **HTML | CSS | JS | JQUERY | TS | PHP | GIT | TS | .NET**
 
 - 📫 How to reach me **adri.iglesias.fernandez@gmail.com**
 
