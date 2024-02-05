@@ -1,7 +1,7 @@
 <div align="center">
 
 # ¡Hola! Mi nombre es Adrián Iglesias 👋
- 
+
 </div>
 
 <div align="center">
@@ -12,8 +12,13 @@
 
 <div align="center">
 Junior apasionado por el Desarrollo FrontEnd & BackEnd 🖥️
+</div>
+
+<div align="center">
+Abriendo Horizontes desde Vigo📍 para el Mundo 🌍
 <hr>
 </div>
+
 
 - Actualmente estoy estudiando DAW (Desarrollo de Aplicaciones Web).
 - En busca de el empleo que me haga crecer como profesional. 👥
