@@ -24,14 +24,6 @@ Abriendo Horizontes desde Vigo📍 para el Mundo 🌍
 - En busca de el empleo que me haga crecer como profesional. 👥
 - Más información en mi [web](https://igledev.netlify.app/).
 
-# Los lenguajes que más utilizo!
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgleDev&custom_title=Lenguajes%20más%20usados&layout=compact&bg_color=22272E&text_color=ffffff&hide_border=true&title_color=FDBCB4)](https://github.com/FlorPManzano/github-readme-stats)
-
-</div>
-
 # Tecnologías
 
 <div align="center">
