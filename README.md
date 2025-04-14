@@ -23,12 +23,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=IgleDev&theme=dracula&hide_border=false)
 </div>
 
-<div align="center">
- 
-![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/904c40ff-e936-4118-8204-2860fdb49eaf)
-</div>
-
-
 <div align="left">
  
 ## 🌐 Socials:
